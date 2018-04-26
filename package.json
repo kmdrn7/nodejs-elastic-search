@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-elastic-search",
+  "version": "1.0.0",
+  "description": "Search engine implementation using NodeJS as backend, VueJS as front, and Elastic Search as search engine API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmdrn7/nodejs-elastic-search.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Vue",
+    "Elastic",
+    "Search"
+  ],
+  "author": "Andika Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmdrn7/nodejs-elastic-search/issues"
+  },
+  "homepage": "https://github.com/kmdrn7/nodejs-elastic-search#readme"
+}
